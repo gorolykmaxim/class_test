@@ -1,8 +1,8 @@
 name: class_test
 description: Allows structuring flutter tests using classes instead of functions to simplify polymorphism testing.
-version: 0.0.1
-author:
-homepage:
+version: 1.0.0
+author: Horoliuk Maksym <goroliuk.maksym@gmail.com>
+homepage: https://github.com/gorolykmaxim/class_test
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
